@@ -1,0 +1,8 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\QueueManagmentUserDefineApp\QueueManagmentUserDefineApp\bin\Debug\QueueManagmentUserDefineApp.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\QueueManagmentUserDefineApp\QueueManagmentUserDefineApp\bin\Debug\QueueManagmentUserDefineApp.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\QueueManagmentUserDefineApp\QueueManagmentUserDefineApp\bin\Debug\QueueManagmentUserDefineApp.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\QueueManagmentUserDefineApp\QueueManagmentUserDefineApp\obj\Debug\QueueManagmentUserDefineApp.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\QueueManagmentUserDefineApp\QueueManagmentUserDefineApp\obj\Debug\QueueManagmentUserDefineApp.QueueManagmentUserDefineApp.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\QueueManagmentUserDefineApp\QueueManagmentUserDefineApp\obj\Debug\QueueManagmentUserDefineApp.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\QueueManagmentUserDefineApp\QueueManagmentUserDefineApp\obj\Debug\QueueManagmentUserDefineApp.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\QueueManagmentUserDefineApp\QueueManagmentUserDefineApp\obj\Debug\QueueManagmentUserDefineApp.pdb
