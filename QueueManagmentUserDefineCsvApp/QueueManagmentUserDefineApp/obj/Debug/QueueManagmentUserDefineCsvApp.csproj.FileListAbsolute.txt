@@ -1,0 +1,6 @@
+J:\QueueManagmentUserDefineApp\QueueManagmentUserDefineApp\bin\Debug\QueueManagmentUserDefineApp.exe.config
+J:\QueueManagmentUserDefineApp\QueueManagmentUserDefineApp\obj\Debug\QueueManagmentUserDefineApp.exe
+J:\QueueManagmentUserDefineApp\QueueManagmentUserDefineApp\obj\Debug\QueueManagmentUserDefineApp.pdb
+J:\QueueManagmentUserDefineCsvApp\QueueManagmentUserDefineApp\bin\Debug\QueueManagmentUserDefineApp.exe.config
+J:\QueueManagmentUserDefineCsvApp\QueueManagmentUserDefineApp\obj\Debug\QueueManagmentUserDefineApp.exe
+J:\QueueManagmentUserDefineCsvApp\QueueManagmentUserDefineApp\obj\Debug\QueueManagmentUserDefineApp.pdb
